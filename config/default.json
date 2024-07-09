@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://2020e054:Sa31223951@cluster1.ygrwefs.mongodb.net/?retryWrites=true&w=majority&appName=Cluster1",
+    "jwtSecret":"mysecrettoken"
+}
